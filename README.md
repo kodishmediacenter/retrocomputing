@@ -1,2 +1,1 @@
-#Retrocomputing.Network
-#XBAND Server
+#Retrocomputing.Network XBAND Server
